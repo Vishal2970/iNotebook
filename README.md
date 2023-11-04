@@ -21,9 +21,3 @@ The iNotebook app is designed to provide a seamless experience for users to:
 - **HTML/CSS**: For structuring and styling the frontend.
 - **Bootstrap**: A front-end framework for responsive design.
 
-## Getting Started
-
-1. Clone this repository to your local machine.
-
-   ```bash
-   git clone https://github.com/Vishal2970/iNotebook-App.git
